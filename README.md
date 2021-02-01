@@ -10,7 +10,7 @@ To copy an entire line of a failed autograder test easily, follow the steps belo
   2. Hold down left-click
   3. Drag down slowly until you see the line of text hihglight blue
   4. Copy
-  5. Paste into termial by either right-clicking, or Crtl + Shift + V on Windows.
+  5. Paste into terminal by either right-clicking, or Crtl + Shift + V on Windows.
   
 After pasting in your failed test text, press enter to continue the program.
 The analyzer should print two 10 character snapshots, showing both the expected result
