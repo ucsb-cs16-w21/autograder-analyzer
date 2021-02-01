@@ -1,5 +1,5 @@
 # autograder-analyzer
-Utiltiy to help analyze failed autograder tests
+Utility to help analyze failed autograder tests
 
 **Important: Due to insertion/deletion, the program will only detect one error per run.
 If there is multiple errors, they will only be detected if the prior has been resolved.**
