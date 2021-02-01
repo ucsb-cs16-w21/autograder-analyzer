@@ -1,6 +1,10 @@
 # autograder-analyzer
 Utiltiy to help analyze failed autograder tests
 
+**Important: Due to insertion/deletion, the program will only detect one error per run.
+If there is multiple errors, they will only be detected if the prior has been resolved.**
+
+
 To copy an entire line of a failed autograder test easily, follow the steps below:
   1. Place your cursor just before the first character in the line of text
   2. Hold down left-click
